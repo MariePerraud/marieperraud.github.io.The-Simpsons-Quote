@@ -10,7 +10,6 @@ body {
 
 html {
   font-size: 62.5%;
-  font-family:fantasy;
 }
 
 .font {
@@ -36,11 +35,13 @@ h2 {
   width: 75%;
   margin-left: auto;
   margin-right: auto;
+  font-family:fantasy;
 }
 
 p {
   font-size: 2.5rem;
   text-shadow: 0.25rem 0.25rem 1rem grey;
+  font-family:fantasy;
 }
 
 button {
