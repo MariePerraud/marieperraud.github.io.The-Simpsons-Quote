@@ -1,6 +1,6 @@
 @font-face {
   font-family: "SimpsonFont";
-  src: url(./assets/Simpsonfont.ttf) format("truetype");
+  src: url(Simpsonfont.ttf) format("truetype");
 }
 
 body {
@@ -57,7 +57,7 @@ button {
 }
 
 .background {
-  background-image: url(./assets/donuts.jpg);
+  background-image: url(donuts.jpg);
   background-size: cover;
   min-width: 100vw;
   min-height: 100vh;
